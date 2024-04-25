@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Massiths",
+      "department": "Development",
+      "age": "29",
+      "gender": "Female",
+      "salary": "1000",
+      "yearsOfExperience": "2"
+    },
+    {
+      "id": "2",
+      "name": "Nigil",
+      "department": "Development",
+      "age": "29",
+      "gender": "Male",
+      "salary": "2000",
+      "yearsOfExperience": "3"
+    },
+    {
+      "id": "3",
+      "name": "Pooja",
+      "department": "Testing",
+      "age": "30",
+      "gender": "Female",
+      "salary": "4340",
+      "yearsOfExperience": "4"
+    },
+    {
+      "id": "4",
+      "name": "Remya Ramachandran Pillai",
+      "department": "Sales",
+      "age": "45",
+      "gender": "Female",
+      "salary": "32435",
+      "yearsOfExperience": "5"
+    }
+  ]
+}

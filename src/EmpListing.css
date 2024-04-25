@@ -1,0 +1,10 @@
+/* styles.css */
+.table-centered {
+    margin: 0 auto;
+  }
+  
+  .table th {
+    background-color: #4337f1; /* Standard color for table headings */
+    font-weight: bold; 
+  
+  }
